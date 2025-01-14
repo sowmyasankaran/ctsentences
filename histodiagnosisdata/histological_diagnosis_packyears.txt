@@ -1,0 +1,211 @@
+The patient’s cumulative pack years were N/A.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The calculated pack years for the patient totaled N/A.
+The patient’s documented pack years were N/A.
+The patient’s documented pack years were 30.
+The patient’s documented pack years were 4.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The calculated pack years for the patient totaled 25.
+The patient’s cumulative pack years were 30.
+The patient’s pack years were recorded as N/A.
+The patient’s cumulative pack years were 16.
+The patient’s documented pack years were N/A.
+The patient’s pack-year total was noted as N/A.
+The patient's pack-year history was 98.
+The patient’s cumulative pack years were 45.
+The patient’s documented pack years were Not Collected.
+The patient’s cumulative pack years were 40.
+The patient's number of pack years was 20
+The patient’s pack-year total was noted as 3.
+The calculated pack years for the patient totaled 27.
+The patient’s total pack years was calculated to be 20.
+The patient’s cumulative pack years were 15.
+The patient’s pack years were recorded as N/A.
+The patient's number of pack years was 30
+The patient’s cumulative pack years were Not Collected.
+The patient’s cumulative pack years were N/A.
+The patient’s cumulative pack years were 30.
+The patient’s pack years were recorded as Not Collected.
+The patient’s documented pack years were 60.
+The patient's number of pack years was N/A
+The patient’s cumulative pack years were N/A.
+The patient’s documented pack years were N/A.
+The patient's number of pack years was N/A
+The patient's number of pack years was N/A
+The patient’s pack years were recorded as N/A.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The patient's pack-year history was 2.
+The patient's pack-year history was N/A.
+The patient’s cumulative smoking history, in pack years, was 50.
+The calculated pack years for the patient totaled N/A.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The patient's number of pack years was N/A
+The patient’s documented pack years were 45.
+The patient’s total pack years was calculated to be N/A.
+The patient’s pack-year total was noted as N/A.
+The patient's number of pack years was 46
+The patient’s pack years were recorded as 50.
+The patient’s cumulative smoking history, in pack years, was 30.
+The patient’s documented pack years were 30.
+The patient’s total pack years was calculated to be 37.
+The patient’s pack years were recorded as N/A.
+The patient’s pack years were recorded as 38.
+The patient’s cumulative smoking history, in pack years, was 10.
+The patient's number of pack years was 20
+The patient's pack-year history was Not Collected.
+The patient’s cumulative pack years were 15.
+The patient's pack-year history was N/A.
+The patient's pack-year history was 100.
+The patient’s pack-year total was noted as 60.
+The patient's pack-year history was N/A.
+The patient’s total pack years was calculated to be N/A.
+The recorded pack years for the patient were 15.
+The patient’s total pack years was calculated to be 1.
+The patient’s cumulative pack years were N/A.
+The patient’s documented pack years were Not Collected.
+The calculated pack years for the patient totaled 20.
+The patient’s pack-year total was noted as 10.
+The calculated pack years for the patient totaled 42.
+The calculated pack years for the patient totaled N/A.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The calculated pack years for the patient totaled N/A.
+The patient’s pack years were recorded as 10.
+The recorded pack years for the patient were 53.
+The patient’s total pack years was calculated to be 40.
+The patient’s cumulative pack years were N/A.
+The patient's pack-year history was 50.
+The patient’s cumulative pack years were 80.
+The recorded pack years for the patient were 60.
+The patient’s pack-year total was noted as 30.
+The patient’s documented pack years were 46.
+The patient’s cumulative smoking history, in pack years, was 20.
+The recorded pack years for the patient were 35.
+The patient’s cumulative pack years were N/A.
+The patient's number of pack years was 90
+The patient’s cumulative smoking history, in pack years, was Not Collected.
+The patient’s cumulative smoking history, in pack years, was 10.
+The patient’s total pack years was calculated to be 80.
+The recorded pack years for the patient were 54.
+The patient's pack-year history was 30.
+The calculated pack years for the patient totaled 10.
+The calculated pack years for the patient totaled 50.
+The patient’s cumulative smoking history, in pack years, was 25.
+The patient’s cumulative smoking history, in pack years, was 120.
+The patient’s pack years were recorded as 50.
+The patient's number of pack years was 75
+The patient’s cumulative smoking history, in pack years, was 50.
+The patient's pack-year history was 8.
+The patient’s cumulative smoking history, in pack years, was 25.
+The recorded pack years for the patient were 50.
+The patient's pack-year history was N/A.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The patient’s pack-year total was noted as 34.
+The patient’s documented pack years were 25.
+The recorded pack years for the patient were 54.
+The patient’s pack years were recorded as 22.
+The recorded pack years for the patient were 30.
+The recorded pack years for the patient were N/A.
+The patient's number of pack years was 60
+The recorded pack years for the patient were 35.
+The calculated pack years for the patient totaled 43.
+The patient's pack-year history was 80.
+The patient’s cumulative pack years were 40.
+The patient's pack-year history was 34.
+The patient’s pack years were recorded as 38.
+The patient’s pack-year total was noted as 51.
+The patient’s total pack years was calculated to be 50.
+The patient’s cumulative smoking history, in pack years, was 40.
+The patient’s cumulative smoking history, in pack years, was 45.
+The patient's pack-year history was 8.
+The patient’s pack years were recorded as 10.
+The patient's number of pack years was 120
+The patient's pack-year history was 80.
+The patient’s total pack years was calculated to be 35.
+The patient’s documented pack years were 8.
+The patient’s documented pack years were 14.
+The calculated pack years for the patient totaled N/A.
+The recorded pack years for the patient were 30.
+The patient’s cumulative pack years were 15.
+The patient’s cumulative smoking history, in pack years, was 40.
+The patient's number of pack years was N/A
+The patient’s pack-year total was noted as 50.
+The recorded pack years for the patient were 50.
+The patient's number of pack years was 90
+The patient's pack-year history was 70.
+The patient’s pack-year total was noted as 25.
+The patient’s cumulative pack years were 10.
+The patient's number of pack years was 50
+The recorded pack years for the patient were 60.
+The recorded pack years for the patient were 10.
+The patient's number of pack years was 22
+The recorded pack years for the patient were 50.
+The calculated pack years for the patient totaled 50.
+The calculated pack years for the patient totaled 80.
+The patient’s pack-year total was noted as 50.
+The patient’s documented pack years were 56.
+The patient’s cumulative smoking history, in pack years, was 30.
+The patient's number of pack years was Not Collected
+The patient’s documented pack years were N/A.
+The patient's number of pack years was 30
+The patient’s total pack years was calculated to be 60.
+The patient’s total pack years was calculated to be 8.
+The patient’s documented pack years were 40.
+The patient’s pack years were recorded as N/A.
+The patient’s pack-year total was noted as Not Collected.
+The patient’s pack years were recorded as 40.
+The calculated pack years for the patient totaled N/A.
+The recorded pack years for the patient were 80.
+The patient’s pack years were recorded as 50.
+The patient's number of pack years was 70
+The recorded pack years for the patient were 45.
+The calculated pack years for the patient totaled 90.
+The recorded pack years for the patient were 30.
+The calculated pack years for the patient totaled 65.
+The patient’s cumulative smoking history, in pack years, was 60.
+The calculated pack years for the patient totaled 20.
+The patient’s documented pack years were 45.
+The patient’s total pack years was calculated to be 45.
+The patient’s cumulative smoking history, in pack years, was 52.
+The patient’s cumulative pack years were 1.
+The recorded pack years for the patient were 120.
+The patient's number of pack years was 50
+The patient’s cumulative smoking history, in pack years, was 20.
+The patient’s cumulative pack years were 63.
+The patient’s cumulative smoking history, in pack years, was 90.
+The patient’s pack years were recorded as 18.
+The patient's pack-year history was N/A.
+The patient’s cumulative smoking history, in pack years, was N/A.
+The recorded pack years for the patient were 100.
+The patient’s pack-year total was noted as 60.
+The patient's number of pack years was 2
+The patient’s documented pack years were 1.
+The calculated pack years for the patient totaled 90.
+The patient’s pack years were recorded as 20.
+The patient’s documented pack years were 50.
+The patient’s pack-year total was noted as N/A.
+The patient's pack-year history was 30.
+The patient’s cumulative pack years were 20.
+The patient’s pack years were recorded as 41.
+The patient's pack-year history was 5.
+The calculated pack years for the patient totaled 5.
+The patient’s pack years were recorded as 15.
+The patient's number of pack years was 35
+The patient’s cumulative pack years were 10.
+The patient’s cumulative pack years were 40.
+The patient’s total pack years was calculated to be N/A.
+The patient's number of pack years was N/A
+The patient’s cumulative smoking history, in pack years, was 10.
+The patient's pack-year history was N/A.
+The patient’s pack-year total was noted as 68.
+The patient’s total pack years was calculated to be N/A.
+The patient’s documented pack years were 30.
+The recorded pack years for the patient were 34.
+The patient's number of pack years was 5
+The calculated pack years for the patient totaled 51.
+The patient's number of pack years was 17
+The patient’s cumulative pack years were 25.
+The patient's number of pack years was 55
+The patient’s total pack years was calculated to be 12.
+The patient’s cumulative pack years were 7.
+The patient’s documented pack years were 15.
+The calculated pack years for the patient totaled 30.

@@ -1,0 +1,211 @@
+The patient's smoking status was recorded as Nonsmoker.
+The patient's smoking behavior was Nonsmoker.
+The patient's smoking pattern was reported as Nonsmoker.
+The patient was classified as a Nonsmoker smoker.
+The patient's smoking behavior was Former.
+The patient's smoking pattern was reported as Former.
+The patient's smoking behavior was Nonsmoker.
+The patient was classified as a Former smoker.
+The patient's smoking status was marked as Former.
+The patient's smoking pattern was reported as Nonsmoker.
+The patient’s smoking status was identified as Former.
+The patient was documented as a Nonsmoker smoker.
+The patient was classified as a Nonsmoker smoker.
+The patient’s smoking history was noted as Former.
+The patient’s smoking status was indicated as Former.
+The patient's smoking status was recorded as Former.
+The patient’s smoking history was noted as Former.
+The patient's smoking status was recorded as Former.
+The patient's smoking status was recorded as Former.
+The patient was documented as a Former smoker.
+The patient's smoking status was marked as Former.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking history was noted as Nonsmoker.
+The patient's smoking status was marked as Former.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking status was identified as Nonsmoker.
+The patient’s smoking history was noted as Former.
+The patient's smoking status was recorded as Former.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking history was noted as Nonsmoker.
+The patient was classified as a Nonsmoker smoker.
+The patient’s smoking status was indicated as Nonsmoker.
+The patient's smoking status was recorded as Nonsmoker.
+The patient's smoking behavior was Nonsmoker.
+The patient was documented as a Nonsmoker smoker.
+The patient’s smoking history was noted as Nonsmoker.
+The patient’s smoking history was noted as Former.
+The patient was classified as a Nonsmoker smoker.
+The patient's smoking status was recorded as Former.
+The patient was classified as a Nonsmoker smoker.
+The patient's smoking status was recorded as Nonsmoker.
+The patient's smoking status was recorded as Nonsmoker.
+The patient's smoking pattern was reported as Former.
+The patient's smoking status was marked as Nonsmoker.
+The patient was classified as a Nonsmoker smoker.
+The patient was documented as a Former smoker.
+The patient was documented as a Former smoker.
+The patient's smoking pattern was reported as Former.
+The patient was classified as a Former smoker.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient’s smoking status was identified as Current.
+The patient's smoking behavior was Former.
+The patient's smoking status was marked as Former.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking status was noted to be Former.
+The patient's smoking status was marked as Nonsmoker.
+The patient’s smoking status was identified as Current.
+The patient's smoking status was marked as Former.
+The patient was documented as a Nonsmoker smoker.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient was documented as a Former smoker.
+The patient was classified as a Former smoker.
+The patient’s smoking history was noted as Nonsmoker.
+The patient’s smoking status was identified as Current.
+The patient’s smoking status was identified as Former.
+The patient's smoking pattern was reported as Former.
+The patient was classified as a Former smoker.
+The patient’s smoking status was identified as Nonsmoker.
+The patient was documented as a Nonsmoker smoker.
+The patient's smoking status was recorded as Nonsmoker.
+The patient's smoking behavior was Former.
+The patient’s smoking history was noted as Current.
+The patient’s smoking status was noted to be Current.
+The patient's smoking status was marked as Nonsmoker.
+The patient was classified as a Former smoker.
+The patient's smoking status was recorded as Former.
+The patient was documented as a Former smoker.
+The patient was documented as a Former smoker.
+The patient's smoking status was recorded as Former.
+The patient’s smoking history was noted as Former.
+The patient’s smoking status was identified as Former.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient's smoking behavior was Current.
+The patient’s smoking history was noted as Former.
+The patient was documented as a Former smoker.
+The patient’s smoking history was noted as Former.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking status was identified as Former.
+The patient's smoking behavior was Former.
+The patient's smoking status was marked as Current.
+The patient’s smoking status was identified as Former.
+The patient's smoking behavior was Former.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking status was identified as Former.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking history was noted as Former.
+The patient was documented as a Current smoker.
+The patient was documented as a Current smoker.
+The patient's smoking behavior was Nonsmoker.
+The patient's smoking pattern was reported as Nonsmoker.
+The patient was classified as a Current smoker.
+The patient's smoking status was recorded as Current.
+The patient’s smoking history was noted as Former.
+The patient's smoking status was marked as Former.
+The patient's smoking status was marked as Current.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking status was noted to be Current.
+The patient’s smoking status was identified as Former.
+The patient’s smoking status was noted to be Former.
+The patient's smoking status was marked as Former.
+The patient's smoking status was marked as Current.
+The patient’s smoking status was indicated as Former.
+The patient’s smoking status was identified as Former.
+The patient's smoking status was marked as Former.
+The patient's smoking pattern was reported as Former.
+The patient was documented as a Former smoker.
+The patient was classified as a Former smoker.
+The patient's smoking status was marked as Former.
+The patient's smoking behavior was Former.
+The patient was classified as a Former smoker.
+The patient's smoking behavior was Former.
+The patient's smoking status was marked as Former.
+The patient’s smoking status was indicated as Former.
+The patient's smoking status was recorded as Nonsmoker.
+The patient's smoking pattern was reported as Former.
+The patient was documented as a Former smoker.
+The patient was documented as a Former smoker.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient was documented as a Former smoker.
+The patient's smoking status was marked as Current.
+The patient was documented as a Former smoker.
+The patient was classified as a Former smoker.
+The patient was documented as a Former smoker.
+The patient's smoking status was recorded as Former.
+The patient's smoking status was marked as Former.
+The patient’s smoking status was noted to be Former.
+The patient's smoking status was recorded as Current.
+The patient’s smoking history was noted as Current.
+The patient was documented as a Current smoker.
+The patient's smoking status was marked as Former.
+The patient’s smoking status was indicated as Former.
+The patient's smoking pattern was reported as Current.
+The patient’s smoking status was noted to be Former.
+The patient's smoking pattern was reported as Current.
+The patient’s smoking status was identified as Current.
+The patient was classified as a Nonsmoker smoker.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking history was noted as Former.
+The patient's smoking status was marked as Former.
+The patient's smoking pattern was reported as Former.
+The patient was documented as a Nonsmoker smoker.
+The patient's smoking status was recorded as Former.
+The patient’s smoking status was identified as Former.
+The patient was documented as a Nonsmoker smoker.
+The patient was classified as a Former smoker.
+The patient was classified as a Former smoker.
+The patient was classified as a Former smoker.
+The patient's smoking status was marked as Current.
+The patient’s smoking history was noted as Current.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking history was noted as Former.
+The patient’s smoking status was identified as Former.
+The patient's smoking status was marked as Current.
+The patient’s smoking history was noted as Current.
+The patient's smoking behavior was Former.
+The patient’s smoking history was noted as Current.
+The patient’s smoking history was noted as Former.
+The patient's smoking behavior was Current.
+The patient's smoking status was recorded as Former.
+The patient’s smoking status was indicated as Former.
+The patient was documented as a Former smoker.
+The patient's smoking behavior was Current.
+The patient was classified as a Former smoker.
+The patient’s smoking status was indicated as Nonsmoker.
+The patient's smoking status was recorded as Nonsmoker.
+The patient was classified as a Former smoker.
+The patient was classified as a Former smoker.
+The patient’s smoking history was noted as Former.
+The patient was documented as a Former smoker.
+The patient was documented as a Former smoker.
+The patient’s smoking status was identified as Current.
+The patient’s smoking status was identified as Former.
+The patient was classified as a Nonsmoker smoker.
+The patient's smoking behavior was Current.
+The patient's smoking status was recorded as Former.
+The patient was documented as a Former smoker.
+The patient’s smoking status was noted to be Former.
+The patient's smoking behavior was Former.
+The patient's smoking status was marked as Former.
+The patient was classified as a Former smoker.
+The patient's smoking status was marked as Current.
+The patient was documented as a Former smoker.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient’s smoking status was noted to be Nonsmoker.
+The patient was documented as a Former smoker.
+The patient’s smoking status was identified as Nonsmoker.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking status was indicated as Nonsmoker.
+The patient’s smoking status was identified as Former.
+The patient’s smoking status was identified as Former.
+The patient's smoking status was recorded as Former.
+The patient's smoking pattern was reported as Former.
+The patient's smoking status was marked as Former.
+The patient’s smoking status was indicated as Current.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking status was noted to be Former.
+The patient’s smoking status was identified as Former.
+The patient's smoking pattern was reported as Former.
+The patient’s smoking status was indicated as Current.
